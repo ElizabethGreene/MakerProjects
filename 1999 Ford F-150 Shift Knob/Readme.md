@@ -1,0 +1,1 @@
+Print this knob-up shaft down with a brim to keep it from  popping off the print bed.  It has internal geometry to make it flexible for a press fit, and won't print properly in the other orientation.  
