@@ -10,7 +10,7 @@ This tool attaches to a Ryobi cordless trim router to provide a router fence for
 
 ## Danger
 
- Safety glasses are recomended whenever using power tools including this one.
+ Safety glasses are recommended whenever using power tools including this one.
 
 ## Bill of Materials
 
