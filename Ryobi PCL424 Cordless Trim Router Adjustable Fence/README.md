@@ -40,3 +40,8 @@ With the router off and battery removed, install a router bit in the tool.  Then
 ## Changelog
 
 * 1.0.0 - Initial Release
+
+## Source
+
+The authoritative source for this project is 
+<https://github.com/ElizabethGreene/MakerProjects/tree/main/Ryobi%20PCL424%20Cordless%20Trim%20Router%20Adjustable%20Fence>
