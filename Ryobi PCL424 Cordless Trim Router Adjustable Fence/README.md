@@ -4,7 +4,6 @@ Version 1.0.0
 
 This tool attaches to a Ryobi cordless trim router to provide a router fence for using non-pilot router bits
 
-
 ![Glamour Shot image](Images/InUse.jpg)
 ![Glamour Shot image](Images/Installed.jpg)
 
