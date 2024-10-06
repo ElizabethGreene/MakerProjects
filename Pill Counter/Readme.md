@@ -8,3 +8,4 @@ This design is based on this pill counter <https://x.com/Rainmaker1973/status/18
 
 ![Example of product in use](Images/InUse.jpg)
 This image shows 8 rows = 36 plus 3 loose pills = 39 pills.
+Note, the object is slightly different than the image above.  I remade the part to make the wall thickness more consistent and fix an issue where the pills were getting stuck when pouring.
