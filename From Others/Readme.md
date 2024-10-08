@@ -1,0 +1,1 @@
+# Projects in this folder and subfolders are NOT my own, and have their own license details
