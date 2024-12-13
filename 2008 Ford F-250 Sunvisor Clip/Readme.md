@@ -9,8 +9,8 @@ This is the pretty side after I popped off the support material.  10/10
 ## Finished Part
 
 I had some scarring from the support material so I tried sanding, hot smoothing, and then polishing with acetone.  I think it looked better before I messed with it, but it's still a useful part.
-![Pretty Side](Images\PostPolishGood.jpg)
-![Not Pretty Side](Images\PostPolishPoor.jpg)
+![Pretty Side](Images/PostPolishGood.jpg)
+![Not Pretty Side](Images/PostPolishPoor.jpg)
 
 ## 3d Print Orientation
 
