@@ -1,0 +1,1 @@
+Filament Spool Holder (5kg Roll) by tphoenix_131 on Thingiverse: https://www.thingiverse.com/thing:4963583
