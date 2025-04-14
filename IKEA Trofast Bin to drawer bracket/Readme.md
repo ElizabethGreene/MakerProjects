@@ -2,8 +2,8 @@
 
 These brackets allow hanging a "Trofast" bin under a shelf or desk as a drawer.  It's designed to use #8-1 1/4 or #8-1 1/2 Pan head wood screws, and includes an optional bumper to prevent shoving the drawer back in too far.
 
-![Installed](Images\Installed.jpg)
-![Plated](Images\Plated.png)
+![Installed](Images/Installed.jpg)
+![Plated](Images/Plated.png)
 
 ## Suggestions for future work
 
