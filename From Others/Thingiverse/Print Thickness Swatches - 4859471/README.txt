@@ -1,0 +1,1 @@
+Print Thickness Swatches by kcarhart on Thingiverse: https://www.thingiverse.com/thing:4859471
