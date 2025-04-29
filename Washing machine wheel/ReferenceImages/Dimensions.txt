@@ -1,0 +1,20 @@
+WP 3385088 Upper Rack Wheel Dimensions (8258787/8258787G)
+
+Full height (from stem's opening to the wheel's raised edge): 19/32in.
+Height from the Stem's opening to the latching point: 15/32in.
+Height from stem's opening to the top flat face on the wheel: 18.5/32in.
+Outer Stem height until the bottom flat face on the wheel: 15/32in.
+
+Stem -
+Outer diameter: 23/32in.
+Inner diameter: 16/32in.
+Inner diameter at the attachment point: ~18.8/32in. - 19/32in.
+Stem flat face entrance (then bevels inside): 2/32in.
+
+Wheel -
+Wheel Outer Diameter: 38.5/32in.
+Wheel Edge Inner Diameter: 31/32in.
+Wheel's Outer Flat Surface Height: 3/32in.
+Outer Edge Height: 5.5/32in.
+
+The outer wheel's edge is beveled below by ~2/32in. and rounded to the top by 1/32in., extending to reach the Outer Edge Height then joins again at the Wheel Edge Inner Diameter.
